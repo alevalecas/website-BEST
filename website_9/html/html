@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<title> Blanson CTE Robotics </title>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="yes.css">
+
+<style>
+body {font-family: "Poppins", sans-serif}
+body {font-size:18px;}
+{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+:hover{opacity:1}
+</style>
+</head>
+<body>
+
+ 
+	
+  <div class="w3-sidebar  w3-bar-block w3-hide-small w3-center">  
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-home  <div class="w3-sidebar  w3-bar-block w3-small w3-hide-small w3-center">  
+      <p>HOME</p>
+    </a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-list1 w3-xxlarge"></i>
+      <p>list 1</p>
+    </a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-list w3-xxlarge"></i>
+      <p>list 2</p>
+    </a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-list3 w3-xxlarge"></i>
+      <p>list 3</p>
+    </a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-list4 w3-xxlarge"></i>
+      <p>list 4</p>
+    </a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-list5 w3-xxlarge"></i>
+      <p>List 5</p>
+    </a>
+  </div>
+
+  <img src="website 9/images/Untitled4_20230914131356 (1).jpg" style="width:100%">
+  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <p>HOME</p>
+  </a>
+
+  
+
+  </html>
